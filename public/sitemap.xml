@@ -1,0 +1,96 @@
+<xml version="1.0" encoding="UTF-8">
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1"
+>   
+    <url>
+        <loc>https://azolla.sg/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <video:video>
+            <video:player_loc allow_embed="yes">https://www.youtube.com/embed/ANZ2h-oDJfc?rel=0</video:player_loc>
+            <video:title>Azolla - Unlock your vessel</video:title>
+            <video:description>Azolla - your decarbanization partner</video:description>
+            <video:duration>310</video:duration>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://azolla.sg/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <video:video>
+            <video:content_loc>https://s3.ap-southeast-1.amazonaws.com/common.attachments.prod/media/tools.webm</video:content_loc>
+            <video:title>CII and ESD tools</video:title>
+            <video:description>Self evaluate and understand possibities for your vessel</video:description>
+            <video:tag>esd</video:tag>
+            <video:tag>cii</video:tag>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://azolla.sg/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <video:video>
+            <video:content_loc>https://s3.ap-southeast-1.amazonaws.com/common.attachments.prod/media/reports.webm</video:content_loc>
+            <video:title>Decarb Consulting</video:title>
+            <video:description>Identify and evaluate opportunities for optimization, cost reduction, and emissions control</video:description>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://azolla.sg/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <video:video>
+            <video:content_loc>https://s3.ap-southeast-1.amazonaws.com/common.attachments.prod/media/project-management.webm</video:content_loc>
+            <video:title>Projects and beyond</video:title>
+            <video:description>Executing transformative decarbonization measures with precision and excellence</video:description>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://azolla.sg/consultancy</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/project-management</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/about-us</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/careers</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/privacy-policy</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/success-story/arcelor-mittal-tracking-efficiency-post-propeller-retrofit</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/success-story/maersk-broker-advisory-services-in-retrofit</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://azolla.sg/news/azolla_iso</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+</urlset>
+</xml>

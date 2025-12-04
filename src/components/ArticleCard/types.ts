@@ -1,0 +1,6 @@
+export enum Category {
+  PRODUCT = 'product',
+  SERVICE = 'service',
+  LIFE_CYCLE_ANALYSIS = 'LIFE CYCLE ANALYSIS' ,
+  PERFORMANCE_MONITORING =  'PERFORMANCE MONITORING'
+}
