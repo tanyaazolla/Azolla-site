@@ -90,8 +90,8 @@ function HomePage({ type }: Page) {
         return (
           <div className='relative h-full'>
             <h1 className='absolute px-3 py-3 md:px-10 xl:py-10 xl:px-32 bg-gradient-to-b from-white from-70% to-transparent to-100% w-full text-center font-bold lg:text-[5.25vw] text-[6.25vw] leading-[1.2]'>
-              We believe that together,
-              <br /> we can make a difference.
+              Delivering profitable pathways
+              <br />  to maritime decarbonization.
             </h1>
             <Image
               unoptimized

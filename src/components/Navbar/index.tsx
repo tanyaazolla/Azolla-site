@@ -15,7 +15,7 @@ const solutionDropDownValues = [
     to: '/consultancy'
   },
   {
-    key: 'Projects & beyond',
+    key: 'Retrofit project solutions',
     description: 'Managed key accounts in Fairhill and customer loyalty.',
     to: '/project-management'
   },

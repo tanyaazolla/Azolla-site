@@ -48,7 +48,7 @@
         <priority>1</priority>
         <video:video>
             <video:content_loc>https://s3.ap-southeast-1.amazonaws.com/common.attachments.prod/media/project-management.webm</video:content_loc>
-            <video:title>Projects and beyond</video:title>
+            <video:title>Retrofit project solutions</video:title>
             <video:description>Executing transformative decarbonization measures with precision and excellence</video:description>
         </video:video>
     </url>

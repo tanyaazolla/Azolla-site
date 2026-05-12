@@ -13,25 +13,14 @@ function AzollaStory() {
     >
       <div className='w-full pt-10 md:pt-0 text-base lg:text-3xl lg:leading-10 flex flex-col gap-5 lg:gap-10'>
         <p>
-          Our story began within the heart of a renowned ship management
-          company, Synergy, where the seeds of innovation were sown to combat
-          one of the most significant challenges of our time - climate change.
-        </p>
+ 
+For years, maritime emission reduction was always perceived as a compliance burden that’s CAPEX heavy and often without any quantifiable returns on investment.        </p>
         <p>
-          Traditionally, sustainability was often seen as a burden on
-          businesses, requiring hefty investments without straightforward
-          returns.
-        </p>
+ 
+Azolla was founded within Synergy Marine Group in 2019 to change this narrative. We believed that with the right expertise, data, and commercial thinking, every decarbonization decision could be planned for maximum emission reduction and measurable financial outcome.         </p>
         <p>
-          At Synergy, we recognized that this perception needed to change. We
-          realized that for decarbonization efforts to be sustainable, they
-          needed to generate value for both the company and its partners. Thus
-          laying the foundation for Azolla.
-        </p>
-        <p>
-          Today, Azolla empowers committed maritime companies to facilitate
-          change and fast-track a seamless transition to cleaner energy sources.
-        </p>
+Today, as a trusted decarbonization partner, we help some of the world’s largest maritime companies discover their profitable pathways to maritime decarbonization - evaluating fleets for energy saving opportunities, building investment business cases, executing retrofit projects, and leveraging proprietary digital tools to monitor emissions & regulatory compliance.        </p>
+       
       </div>
     </StickyScroll>
   );

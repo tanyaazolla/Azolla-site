@@ -6,31 +6,31 @@ const values: RecordProps[] = [
     icon: '/images/values/DECARBONIZATION_LEADERSHIP.svg',
     title: 'DECARBONIZATION LEADERSHIP',
     description:
-      'Decarbonization is at the heart of our mission. We lead by example, pushing the boundaries of reducing carbon emissions across the maritime sector and beyond.',
+      'We advance practical, scalable decarbonization solutions by combining technical expertise, regulatory insight, and real-world execution to deliver measurable emissions and efficiency outcomes.',
   },
   {
     icon: '/images/values/PROFITABLE_SUSTAINABILITY.svg',
     title: 'PROFITABLE SUSTAINABILITY',
     description:
-      'We firmly believe that sustainability and profitability coexist. Our solutions not only reduce carbon footprints but also enhance the economic viability of maritime operations.',
+      'We integrate sustainability with commercial performance, ensuring that every decarbonization initiative contributes to cost optimisation, operational efficiency, and long-term asset value.',
   },
   {
     icon: '/images/values/MARITIME_STEWARDSHIP.svg',
     title: 'MARITIME STEWARDSHIP',
     description:
-      'We are guardians of the oceans and waterways. Our commitment to maritime stewardship means we take every action to protect these vital ecosystems while ensuring the sustainable growth of the marine industry.',
+      'We support responsible maritime operations by aligning environmental performance with industry best practices, helping safeguard ecosystems while enabling sustainable industry growth.',
   },
   {
     icon: '/images/values/RESILIENCE_FOR_TOMORROW.svg',
     title: 'RESILIENCE FOR TOMORROW',
     description:
-      "We envision a resilient future for the maritime industry. Our initiatives and values reflect our dedication to strengthening the industry's capacity to adapt to a changing climate and evolving challenges.",
+      "We strengthen maritime businesses' ability to adapt to regulatory, environmental, and market shifts through forward-looking strategies and future-ready solutions.",
   },
   {
     icon: '/images/values/VISIONARY_BELIEF.svg',
-    title: 'VISIONARY BELIEF',
+    title: 'OUTCOME-LED PARTNERSHIP',
     description:
-      'Our vision of a decarbonized future is an aspiration and an achievable reality. With unwavering faith in our mission, we are confident that we can shape a future where decarbonization drives positive change.',
+      'We work alongside our customers to deliver tangible results, combining strategic advisory with execution and accountability. Our focus is not only on defining decarbonization pathways, but on delivering outcomes that create lasting operational and commercial impact.',
   },
 ];
 
@@ -39,8 +39,8 @@ const AzollaValues = () => {
     <StickyScroll
       title={
         <>
-          Azolla <br />
-          by values
+          How We <br />
+         Create Value
         </>
       }
       titlecustomClass='pb-8'

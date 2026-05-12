@@ -57,7 +57,7 @@ const footerDetails = [
   },
   {
     id: 'projects',
-    title: 'Projects & beyond',
+    title: 'Retrofit project solutions',
     link: '/project-management',
   },
   {
@@ -108,7 +108,7 @@ const casperFooterDetails = [
   },
   {
     id: 'projects',
-    title: 'Projects & beyond',
+    title: 'Retrofit project solutions',
     link: '/project-management',
   },
   {

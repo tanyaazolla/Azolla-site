@@ -27,7 +27,7 @@ const cardContent = [
       'https://s3.ap-southeast-1.amazonaws.com/common.attachments.prod/media/reports.webm',
   },
   {
-    title: 'Projects and beyond',
+    title: 'Retrofit project solutions',
     description:
       'Executing transformative decarbonization measures with precision and excellence.',
     to: '/project-management',

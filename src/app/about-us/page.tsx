@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import HomePage from '@/_pages/HomePage';
 import AboutUsContent from '@/_pages/AboutUs';
 import NewFooter from '@/_pages/NewFooter';
-import TextColorRevealOnScroll from '@/utils/TextColorRevealOnScroll';
+// import TextColorRevealOnScroll from '@/utils/TextColorRevealOnScroll';
 import NavBar from '@/components/Navbar/index';
 
 export const generateMetadata = (): Metadata => {
@@ -33,11 +33,11 @@ export const generateMetadata = (): Metadata => {
 };
 
 const colorChangeText = [
-  'Our mission at Azolla',
-  'is to help companies',
-  'leverage business and',
-  'unlock value through',
-  'decarbonization.',
+  'We help shipowners and operators to go beyond compliance to make decarbonization a commercial advantage.',
+  'Through digital solutions, carbon abatement consulting, and retrofit project management,',
+  'Azolla provides structured pathways across the IMO CII, ',
+  'EU ETS and FuelEU Maritime to reduce costs, improve efficiency and protect asset value.',
+  
 ];
 
 function AboutUs() {
@@ -45,8 +45,8 @@ function AboutUs() {
     <>
       <NavBar />
       <HomePage type='About us' />
-      <div className='bg-black p-10 pr-2 py-14 md:py-20 xl:p-24 text-white !leading-[1.2] text-[7.8vw] lg:text-[6.5vw] font-[500]'>
-        <TextColorRevealOnScroll text={colorChangeText} />
+      <div className='bg-black p-10 pr-2 py-14 md:py-20 xl:p-24 text-white !leading-[1.5] text-[2.8vw] lg:text-[2.5vw] font-[400]'>
+        {colorChangeText}
       </div>
       <AboutUsContent />
       <NewFooter type='About us' />

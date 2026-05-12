@@ -9,6 +9,7 @@ import AzollaByNumbers from '@/_pages/AzollaByNumbers';
 function AboutUs() {
   return (
     <>
+    
       <div className='p-10 py-20 xl:px-24 xl:py-32 h-full space-y-responsive-xl'>
         <AzollaStory />
         <Divider className='bg-black my-10' />
