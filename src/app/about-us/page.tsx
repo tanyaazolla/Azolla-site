@@ -34,7 +34,7 @@ export const generateMetadata = (): Metadata => {
 
 const colorChangeText = [
   'We help shipowners and operators to go beyond compliance to make decarbonization a commercial advantage.',
-  'Through digital solutions, carbon abatement consulting, and retrofit project management,',
+  ' Through digital solutions, carbon abatement consulting, and retrofit project management,',
   'Azolla provides structured pathways across the IMO CII, ',
   'EU ETS and FuelEU Maritime to reduce costs, improve efficiency and protect asset value.',
   
