@@ -14,7 +14,7 @@ const floatText = [
     left: '5vw'
   },
   {
-    text: 'RightShip rating',
+    text: 'Rights-based ship rating',
     top: '2vh',
     left: '15vw',
   },
